@@ -4,8 +4,9 @@ Allow: /
 # Sitemap
 Sitemap: https://v2raytun.guru/sitemap.xml
 
-# Allow access to assets
+# Allow access to assets and favicon
 Allow: /assets/
+Allow: /favicon.ico
 
 # Common crawl delay
 Crawl-delay: 1
