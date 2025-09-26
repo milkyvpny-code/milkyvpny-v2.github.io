@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://v2raytun.guru/sitemap.xml
+
+# Allow access to assets
+Allow: /assets/
+
+# Common crawl delay
+Crawl-delay: 1
